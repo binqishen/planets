@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolman
 But the Mummy will appreciate the lack of humidity
 xxx
 Maybe I should start with a base on Venus
 adding from R
+=======
+cold and dry, but everything is my favorite color
+The two moons may be a problem for Wolfman
+some additional text
+but the Mummy wil appreciate the lack of humidity
+Maybe Venus would be better
+>>>>>>> db8d1410203d4aafc1f04e037e41f8334a99f597

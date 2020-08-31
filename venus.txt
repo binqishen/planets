@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 vennus is a nice planet and I definitely should consider it as a base
+=======
+Venus could be nice too
+on second thought, maybe not
+well, it could still work thought
+>>>>>>> db8d1410203d4aafc1f04e037e41f8334a99f597
